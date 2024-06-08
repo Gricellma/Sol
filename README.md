@@ -1,2 +1,2 @@
 # Sol
-Es un ferrocarril utilizado para subir grandes pendirntes
+Es un ferrocarril utilizado para subir grandes pendientes
